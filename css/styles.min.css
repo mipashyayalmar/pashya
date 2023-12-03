@@ -4,7 +4,7 @@
 
 .launch-time{
     display: flex;
-    margin-left: 2%;
+    margin-left: -4%;
 }
 
 .launch-time div{
@@ -20,7 +20,7 @@
 .launch-time2{
     display: flex;
     margin-left: 40%;
-    margin-right: 40%;
+    margin-right: 25%;
     border: 1px solid;
  
 }
@@ -36,7 +36,14 @@
     padding: 5px;
 }
 
+.launch-time3{
+    display: flex;
+    margin: -13%;
+}
 
+.launch-time3 div{
+    flex-basis: 100px;
+}
 
 .hero{min-height:750px;background:url("../img/sak/DSC_7365.JPG") center center;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;position:relative;background-attachment: fixed;} 
 
