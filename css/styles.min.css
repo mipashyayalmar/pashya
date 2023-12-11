@@ -1,829 +1,130 @@
-<!doctype html>
-<!--[if lt IE 7]>
-<html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if IE 7]>
-<html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
-<!--[if IE 8]>
-<html class="no-js lt-ie9" lang="en"> <![endif]-->
-<!--[if gt IE 8]><!-->
-<html class="no-js" lang="en"> <!--<![endif]-->
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-    <title>Sumit & Sakshi getting hitched!</title>
-    <meta name="description" content="We would like to invite you to our big day.">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#ffffff">
-    <meta property="og:title" content="Ram & Antara getting hitched">
-    <meta property="og:description" content="We would like to invite you to our big day.">
-    <meta property="og:image" content="https://wedding.ramswaroop.me/img/hero-min.jpg">
-    <meta property="og:type" content="website">
-    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
-    <link rel="manifest" href="manifest.json">
-    <link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+@import"https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800";@import"https://fonts.googleapis.com/css?family=Merriweather:400,300,400italic,300italic,700,700italic";@import"https://fonts.googleapis.com/css?family=Nunito:400,300,700";p{font-size:22px;line-height:29px;color:darkturquoise;padding-bottom:20px}h1{font-size:60px}h2{font-size:40px;font-weight:300;color:#3d4351}h3{color:#3d4351;font-size:18px;font-weight:700;text-transform:uppercase;letter-spacing:3px;line-height:29px}h4{font-size:18px}h5{font-size:22px;color:purple;text-transform:uppercase;font-weight:500}.btn{font-size:18px;border:solid 2px;-moz-border-radius:40px;-webkit-border-radius:40px;border-radius:40px;display:inline-block;text-transform:uppercase}.btn:hover,.btn:focus{color:#fff;border-color:#e8ca6f;background-color:#e8ca6f}.btn-white{font-size:19px;border:solid 2px;-moz-border-radius:40px;-webkit-border-radius:40px;border-radius:40px;display:inline-block;border-color:#fff}.btn-white:hover,.btn-white:focus{color:#e8ca6f;border-color:#726c59}.btn-fill{color:#fff;border:solid 2px #e8ca6f;-moz-border-radius:40px;-webkit-border-radius:40px;border-radius:40px;display:inline-block;text-transform:uppercase;background-color:#e8ca6f}.btn-fill:hover,.btn-fill:focus{color:#fff;background-color:#d3b56a;border-color:#d3b56a}.btn-small{padding:8px 30px}.btn-large{padding:15px 40px}.btn-margin-right{margin-right:0px}section.intro,section.features-extra,section.rsvp{background:#fff}section.features,section.events,section.blog{background:#f8f9fd}.group:after{content:"";display:table;clear:both}.no-padding{padding:0}.no-margin{margin:0}a{color:#000000;-webkit-transition-timing-function:ease;transition-timing-function:ease;-webkit-transition-duration:200ms;transition-duration:200ms;-webkit-transition-property:color,border-color,background-color;transition-property:color,border-color,background-color}a:hover,a:focus{color:#d3b56a;text-decoration:none}body{font-weight:300;color:rgba(28,54,83,.6);-webkit-text-size-adjust:100%}*:focus{outline:none !important}ul,ol{margin:0;padding:0}ul li{list-style:none}section .header{padding-bottom:0px}.section-padding{padding:0px -2px;}.section-border{border-bottom:1px solid #0d607b;border-top:1px solid #0d607b}.tooltip{position:absolute;z-index:1070;display:block;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;font-weight:normal;line-height:1.4;visibility:visible;filter:alpha(opacity=0);opacity:0}.tooltip.in{filter:alpha(opacity=90);opacity:.9}.tooltip.top{padding:5px 0;margin-top:-3px}.tooltip.right{padding:0 5px;margin-left:3px}.tooltip.bottom{padding:5px 0;margin-top:3px}.tooltip.left{padding:0 5px;margin-left:-3px}.tooltip-inner{max-width:200px;padding:3px 8px;color:#fff;text-align:center;text-decoration:none;text-transform:capitalize;background-color:#000;border-radius:4px}.pulse2{animation-name:pulse2;animation-duration:1s;animation-iteration-count:infinite;animation-timing-function:linear}@keyframes pulse2{0%{transform:scale(1.1)}50%{transform:scale(0.8)}100%{transform:scale(1)}}.floating-arrow{animation-name:floating-arrow;animation-duration:2s;animation-iteration-count:infinite;animation-timing-function:ease-in-out}@keyframes floating-arrow{from{transform:translate(-50%, 0)}65%{transform:translate(-50%, 15px)}to{transform:translate(-50%, 0)}}.floating-logo{animation-name:floating-logo;animation-duration:2s;animation-iteration-count:infinite;animation-timing-function:ease-in-out}@keyframes floating-logo{from{transform:translate(-50%, 0)}50%{transform:translate(-50%, 10px)}to{transform:translate(-50%, 0)}}.wp1,.wp2,.wp3,.wp4,.wp5,.wp6,.wp7,.wp8,.wp9{visibility:hidden}.wp8,.wp9{-webkit-animation-delay:.3s;animation-delay:.3s}.bounceInLeft,.bounceInRight,.fadeInUp,.fadeInUpDelay,.fadeInDown,.fadeInUpD,.fadeInLeft,.fadeInRight,.bounceInDown{visibility:visible}.header-nav.open{visibility:visible;opacity:.9;-webkit-transition:opacity .5s;transition:opacity .5s}.nav-toggle{position:absolute;top:0;right:15px;z-index:999999;padding:10px 30px 16px 0;cursor:pointer}.nav-toggle:focus{outline:none}.nav-toggle span,.nav-toggle span:before,.nav-toggle span:after{content:"";position:absolute;display:block;width:35px;height:3px;-moz-border-radius:1px;-webkit-border-radius:1px;border-radius:1px;background:#fff;cursor:pointer}.nav-toggle span:before{top:-10px}.nav-toggle span:after{bottom:-10px}.nav-toggle span,.nav-toggle span:before,.nav-toggle span:after{-moz-transition:all 300ms ease-in-out;-o-transition:all 300ms ease-in-out;-webkit-transition:all 300ms ease-in-out;transition:all 300ms ease-in-out}.nav-toggle.active span{background-color:rgba(0,0,0,0)}.nav-toggle.active span:before,.nav-toggle.active span:after{top:0}.nav-toggle.active span:before{-moz-transform:rotate(45deg);-ms-transform:rotate(45deg);-o-transform:rotate(45deg);-webkit-transform:rotate(45deg);transform:rotate(45deg)}.nav-toggle.active span:after{top:10px;-moz-transform:translatey(-10px) rotate(-45deg);-ms-transform:translatey(-10px) rotate(-45deg);-o-transform:translatey(-10px) rotate(-45deg);-webkit-transform:translatey(-10px) rotate(-45deg);transform:translatey(-10px) rotate(-45deg)}.navicon{position:absolute;height:26px;right:10px;top:48px;visibility:hidden;transition:all 300ms ease-in-out}
 
-    <script>
-        // load css files from CDN if local node_modules fail
-        function loadCssFromCDN(css) {
-            // create new link tag
-            const link = document.createElement('link');
-            if (css === 'animate.css') {
-                link.href = 'https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css';
-            } else if (css === 'font-awesome.css') {
-                link.href = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css';
-            }
-            link.rel = 'stylesheet';
+/* remaining times */
 
-            // add link tag to head section
-            document.getElementsByTagName('head')[0].appendChild(link);
-        }
-
-        // load js files from CDN if local node_modules fail
-        function loadJsFromCDN(js) {
-            if (js === 'waypoints.js') {
-                document.write('<script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.js"><\/script>');
-            } else if (js === 'jquery.js') {
-                document.write('<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"><\/script>');
-            }
-        }
-    </script>
-
-    <link rel="stylesheet" href="css/normalize.min.css">
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/jquery.fancybox.css">
-    <link rel="stylesheet" href="css/flexslider.css">
-    <link rel="stylesheet" href="css/styles.min.css">
-    <link rel="stylesheet" href="css/queries.css">
-    <link rel="stylesheet" href="node_modules/animate.css/animate.min.css" onerror="loadCssFromCDN('animate.css')">
-    <link rel="stylesheet" href="node_modules/font-awesome/css/font-awesome.min.css" onerror="loadCssFromCDN('font-awesome.css')">
-    <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
-</head>
-<body id="top">
-<!--[if lt IE 8]>
-<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade
-    your browser</a> to improve your experience.</p>
-<![endif]-->
-<section class="hero">
-    <section class="navigation">
-        <header>
-            <div class="header-content">
-                <div class="logo"><a href="#"><img src="img/couple.png" alt="Logo"></a></div>
-                <div class="header-nav">
-                <div class="logo"><a href="#"></a></div>
-                
-                    
-                    <nav>
-                        
-                        <ul class="primary-nav">
-                            
-                           
-                            <li><a href="#intro">we met</a></li>
-                            <li><a href="#events">Events</a></li>
-                            <li><a href="#instagram">invitation</a></li>
-                            <li><a href="#eng-pics">Pre-wedding</a></li>
-                            
-                        </ul>
-                        <ul class="member-actions">
-                            <li><a href="#map" class="login">Map</a></li>
-                            <li><a href="#rsvp" class="btn-white btn-small">reminder</a></li>
-                            
-                        </ul>
-                    
-                    </nav>
-                </div>
-                <div class="navicon">
-                    <a class="nav-toggle" href="#"><span></span></a>
-                </div>
-            </div>
-
-
-            
-        </header>
-    </section>
-    <div class="container">
-     
-        <div class="row">
-            <div class="col-md-10 col-md-offset-1">
-                <div class="hero-content text-center">
-                    <!-- <h1>Sumit and Sakshi</h1> -->
-                    <img src="img/sovesakshi.png">
-                    <!--<p class="intro">Ram & Antara are getting hitched!</p>-->
-
-
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="diamond floating-logo">
-                                <img src="img/iloveu.png" alt="Sketch Logo">
-                                <div class="ring"></div>
-                            </div>
-                        </div>
-                    </div> 
-                   
-                </div>
-
-
-                
-
-
-
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-sm-4 hidden-xs"></div>
-            <div class="col-sm-4 hidden-xs text-center"><a href="#rsvp"
-                                                           class="btn btn-accent btn-large rsvp-btn">RSVP</a></div>
-            <div class="col-sm-4 hidden-xs"></div>
-        </div>
-    </div>
-    <div class="down-arrow floating-arrow"><a href="#invitation"><i class="fa fa-angle-down"></i></a></div>
-</section>
-
-<section id="invitation" class="section-padding">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 text-center">
-                <h3>We are getting hitched</h3>
-                <p>The dates are 20<sup>th</sup> & 21<sup>th</sup> of December '23 and we would like you to be a part of
-                    it.</p>
-                <div class="share-bar"></div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<section id="patrika" class="wp3">
-    YALMAR-YELPALE
-     <a href="YALMAR- YELAPALE-1.jpg">
-    <img src="YALMAR- YELAPALE-1.jpg" class="wp28 animated fadeInDown">
-</a>
-<a href="YALMAR- YELAPALE-2.jpg">
-    <img src="YALMAR- YELAPALE-2.jpg" class="wp28 animated fadeInUp">
-</a>    
-      
-  </section>
-  <br><br>
-
-  
-
-  <section id="patrika" class="wp3">
-    YELPALE-YALMAR 
-    <a href="yelpalepatrika.jpg">
-   <img src="yelpalepatrika.jpg" class="wp28 animated fadeInDown">
-</a>
-  
-     
- </section>
-
-
-
-
-<section id="intro">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 text-center">
-                <h3 class="header"></h3>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-3 hidden-sm hidden-xs"><img src="img/couple1/awesomesak1.png"  class="wp1"></div>
-            <div class="col-md-6">
-                <p>
-                    लग्न लग्न म्हणजे काय असतं
-लग्न लग्न म्हणजे नेमकं काय असतं…
-त्याच्या मनातील विचाराचं 
-तिच्या  चेहऱ्यावर प्रतिबिंब असतं
-तिच्या प्रश्नाआधी त्याचं 
-उत्तर तयार असतं
-लग्न लग्न म्हणजे नेमकं काय असतं…
-त्याला लागताच ठसका
-तिच्या डोळ्या पाणी तराळतं
-तिला ठेच लागताच
-त्याचं मन कळवळतं
-लग्न लग्न म्हणजे नेमकं काय असतं…
-तिने चहा केला तरी 
-त्याला थंड सरबत हवं असतं. 
-त्याने गजरा आणला की नेमकं
-तिला फुल हवं असतं
-लग्न लग्न म्हणजे नेमकं काय असतं…
-त्याच्या बेफिकिरीला
-तिच्या जाणिवेचं कोंदण असतं
-त्याच्या चुकांवर
-तिने घालतेलं पांघरूण असतं
-लग्नाच्या हार्दिक शुभेच्छा
-                </p>
-            </div>
-            <div class="col-md-3 hidden-sm hidden-xs"><img src="img/couple1/sumitmainsingle.png" class="wp2"></div>
-        </div>
-        <div class="row">
-            <div class="col-sm-4 col-sm-push-2 col-xs-6 hidden-md hidden-lg"><img src="img/couple1/awesomesak1.png" class="wp8"></div>
-            <div class="col-sm-4 col-sm-push-2 col-xs-6 hidden-md hidden-lg"><img src="img/couple1/sumitmainsingle.png" class="wp9"></div>
-        </div>
-    </div>
-</section>
-
-
-
-
-
-
-
-
-
-
-
-
-<section class="events section-padding" id="events">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <h3 class="header">Events</h3>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-6 col-sm-12 col-xs-12 leftcol">
-                <div class="wp3">
-                    <p><strong>19th December</strong></p>
-
-                    <h5>Mehndi <span class="time">1PM - 5PM</span></h5>
-                    <p>It's one of the oldest traditional Indian pre wedding ceremony where the bride and groom
-                        attend the event together and a professional mehndi artist applies
-                        mehndi to the bride's hands and feet. This will be having a celebratory
-                        festival feel to it with people wearing vibrant clothes and dancing, singing, playing
-                        games and a lot more.</p>
-                </div>
-                <div class="wp5">
-                    <h5>Cocktail Night <span class="time">7PM - 12AM</span></h5>
-                    <p>This event is no way close to ethnic. The bride & groom would like to have some "shots before the
-                        knot". With booze flowing down the floor and the western attire on, everyone would be busy
-                        showing off their new moves on the stage which they have finely honed. Lastly, expect some beer
-                        pong matches & karaoke for sure.</p>
-                </div>
-            </div>
-            <div class="col-md-6 col-sm-12 col-xs-12 rightcol">
-                <div class="wp4">
-                    <p><strong>20th December</strong></p>
-
-                    <h5>Haldi <span class="time">10AM-11AM</span></h5>
-                    <p>The haldi ceremony is usually held separately for the bride and the groom. This one is for the
-                        bride. It is a low-key event that involves the application of turmeric paste on the hands, legs
-                        and face of the bride. The groom is not allowed to see the bride after this ritual until the
-                        final wedding ceremony starts.</p>
-                </div>
-                <div class="wp6">
-                    <h5>Wedding <span class="time">6PM-12AM</span></h5>
-                    <p>This is the main event in the entire wedding when the bride and the groom tie the
-                        knot. The groom comes with the barat and is greeted by the bride side with some dhol of course
-                        as maximum number of guests would be attending this event. This is when the couple circle the
-                        sacred fire and are finally declared husband and wife.</p>
-                </div>
-            </div>
-        </div>
-        <div class="row section-padding">
-            <div class="col-md-4 col-md-offset-4 text-center">
-                <a class="btn btn-accent btn-small" data-toggle="modal" data-target="#dc-modal">
-                    <i class="fa fa-barcode"></i>&nbsp;&nbsp;mehndi and wedding
-                </a>
-            </div>
-        </div>
-        
-        
-    </div>
-    
-    <div id="dc-modal" class="modal fade" tabindex="-1" role="dialog">
-        <div class="modal-dialog" role="document">
-            <div class="modal-content">
-                <div class="modal-body">
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span>&times;</span>
-                    </button>
-                    <h3 class="text-center section-padding">
-
-
-                        <h5>remaining time to haldi & sakarpudha</h5>
-<time class="countdown" date-time="2023-12-20 19:06:00" style="--accent: red"></time>
-
-
-
-                        
-
-
-
-                        <div class="row">
-                            <div class="col-md-3 hidden-sm hidden-xs"><img src="img/prapose.png"  class="wp1"></div>
-                           
-                        </div>
-                        <div class ="launch-time3">
-                        <div class="row">
-                            <div class="col-sm-4 col-sm-push-2 col-xs-6 hidden-md  hidden-lg"><img src="img/prapose.png"  class="wp8"></div>
-                            
-                        </div>
-                    </div>
-                </div>
-
-
-
-
-
-
-
-
-
-
-
-                    
-                   
-                    <h5>Wedding <span class="time">12am</span></h5>
-                    <p>
-                        <strong>Indo-western</strong>
-                        <br>
-                        Ladies can flaunt their unconventional sarees,
-                        <a href="https://www.pinterest.com/ramswarooppatra/indo-western-lehengas/">lehengas</a>,
-                        <a href="https://www.pinterest.com/ramswarooppatra/indo-western-anarkalis/">anarkalis</a>,
-                        dresses and the list
-                        goes on whereas gentlemen can wear any kind of suit or just blazer. If you don't like to wear a
-                        suit/blazer, you can do a <a
-                            href="https://www.pinterest.com/ramswarooppatra/high-neck-jackets-for-men/">high-neck
-                        (band gala) waistcoat & shirt</a> combo.
-                    </p>
-                </div>
-            </div><!-- /.modal-content -->
-        </div><!-- /.modal-dialog -->
-    </div><!-- /.modal -->
-
-</section>
-
-
-<section id="instagram" class="section-padding">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 text-center">
-                <h3>A picture is worth a thousand words!</h3>
-                <p>Help us capture the moment, tag your photos with the hashtag
-                    <a href="https://instagram.com/explore/tags/ramandantarass/" target="_blank">#SumitSakshi</a>
-                </p>
-            </div>
-        </div>
-        <div class="row section-border wp7">
-            <div class="col-md-4 col-md-offset-4">
-                <a href="img/sak/patrika.png">
-                <img src="img/sak/patrika.png">
-            </a>
-            </div>
-        </div>
-        
-    </div>
-</section>
-
-<section id="eng-pics" class="section-padding">
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-md-12 text-center">
-                <h3 class="header">Pre-wedding Pics</h3>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-2">
-                <a class="fancybox" rel="group" href="img/eng_pics/ss1.JPG">
-                    <div class="img-wrap">
-                        <div class="overlay">
-                            <i class="fa fa-search"></i>
-                        </div>
-                        <img src="img/eng_pics/ss1.JPG" alt=""/>
-                    </div>
-                </a>
-            </div>
-
-            <div class="col-md-2">
-                <a class="fancybox" rel="group" href="img/eng_pics/ss2.JPG">
-                    <div class="img-wrap">
-                        <div class="overlay">
-                            <i class="fa fa-search"></i>
-                        </div>
-                        <img src="img/eng_pics/ss2.JPG" alt=""/>
-                    </div>
-                </a>
-            </div>
-
-            <div class="col-md-2">
-                <a class="fancybox" rel="group" href="img/eng_pics/ss3.JPG">
-                    <div class="img-wrap">
-                        <div class="overlay">
-                            <i class="fa fa-search"></i>
-                        </div>
-                        <img src="img/eng_pics/ss3.JPG" alt=""/>
-                    </div>
-                </a>
-            </div>
-
-            <div class="col-md-2">
-                <a class="fancybox" rel="group" href="img/eng_pics/ss4.JPG">
-                    <div class="img-wrap">
-                        <div class="overlay">
-                            <i class="fa fa-search"></i>
-                        </div>
-                        <img src="img/eng_pics/ss4.JPG" alt=""/>
-                    </div>
-                </a>
-            </div>
-
-
-            <div class="col-md-2">
-                <a class="fancybox" rel="group" href="img/sak/ss5.1.png">
-                    <div class="img-wrap">
-                        <div class="overlay">
-                            <i class="fa fa-search"></i>
-                        </div>
-                        <img src="img/sak/ss5.1.png" alt=""/>
-                    </div>
-                </a>
-            </div>
-            
-            <div class="col-md-2">
-                <a class="fancybox" rel="group" href="img/eng_pics/ss6.JPG">
-                    <div class="img-wrap">
-                        <div class="overlay">
-                            <i class="fa fa-search"></i>
-                        </div>
-                        <img src="img/eng_pics/ss6.JPG" alt=""/>
-                    </div>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="container">
-        <div class="row hidden-lg hidden-md hidden-xs">
-            <div class="col-xs-12 section-border section-padding"></div>
-        </div>
-    </div>
-    <!--<div class="row">
-        <div class="col-md-12">
-            <div class="diamond floating-logo">
-                <img src="img/sketch-logo.png" alt="Sketch Logo">
-                <div class="ring"></div>
-            </div>
-        </div>
-    </div>-->
-</section>
-
-<!-- gallary2 -->
-<br>  <br>   
-
-<section id="eng-pics" class="section-padding">
-    <div class="container-fluid">
-        <div class="row">
-            
-        </div>
-        <div class="row">
-            <div class="col-md-2">
-                <a class="fancybox" rel="group" href="img/eng_pics/ss7.JPG">
-                    <div class="img-wrap">
-                        <div class="overlay">
-                            <i class="fa fa-search"></i>
-                        </div>
-                        <img src="img/eng_pics/ss7.JPG" alt=""/>
-                    </div>
-                </a>
-            </div>
-            <div class="col-md-2">
-                <a class="fancybox" rel="group" href="img/eng_pics/ss8.jpg">
-                    <div class="img-wrap">
-                        <div class="overlay">
-                            <i class="fa fa-search"></i>
-                        </div>
-                        <img src="img/eng_pics/ss8.jpg" alt=""/>
-                    </div>
-                </a>
-            </div>
-            <div class="col-md-2">
-                <a class="fancybox" rel="group" href="img/sak/ss91.png">
-                    <div class="img-wrap">
-                        <div class="overlay">
-                            <i class="fa fa-search"></i>
-                        </div>
-                        <img src="img/sak/ss91.png" alt=""/>
-                    </div>
-                </a>
-            </div>
-            <div class="col-md-2">
-                <a class="fancybox" rel="group" href="img/eng_pics/ss10.JPG">
-                    <div class="img-wrap">
-                        <div class="overlay">
-                            <i class="fa fa-search"></i>
-                        </div>
-                        <img src="img/eng_pics/ss10.JPG" alt=""/>
-                    </div>
-                </a>
-            </div>
-            <div class="col-md-2">
-                <a class="fancybox" rel="group" href="img/eng_pics/ss11.JPG">
-                    <div class="img-wrap">
-                        <div class="overlay">
-                            <i class="fa fa-search"></i>
-                        </div>
-                        <img src="img/eng_pics/ss11.JPG" alt=""/>
-                    </div>
-                </a>
-            </div>
-            
-            <div class="col-md-2">
-                <a class="fancybox" rel="group" href="img/eng_pics/ss12.JPG">
-                    <div class="img-wrap">
-                        <div class="overlay">
-                            <i class="fa fa-search"></i>
-                        </div>
-                        <img src="img/eng_pics/ss12.JPG" alt=""/>
-                    </div>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="container">
-        <div class="row hidden-lg hidden-md hidden-xs">
-            <div class="col-xs-12 section-border section-padding"></div>
-        </div>
-    </div>
-  
-</section>
-
-
-<br>  <br>  
-<!-- gallary3 -->
-
-
-
-<section id="eng-pics" class="section-padding">
-    <div class="container-fluid">
-        <div class="row">
-          
-        </div>
-        <div class="row">
-            <div class="col-md-2">
-                <a class="fancybox" rel="group" href="img/eng_pics/ss13.JPG">
-                    <div class="img-wrap">
-                        <div class="overlay">
-                            <i class="fa fa-search"></i>
-                        </div>
-                        <img src="img/eng_pics/ss13.JPG" alt=""/>
-                    </div>
-                </a>
-            </div>
-            <div class="col-md-2">
-                <a class="fancybox" rel="group" href="img/eng_pics/ss14.JPG">
-                    <div class="img-wrap">
-                        <div class="overlay">
-                            <i class="fa fa-search"></i>
-                        </div>
-                        <img src="img/eng_pics/ss14.JPG" alt=""/>
-                    </div>
-                </a>
-            </div>
-            <div class="col-md-2">
-                <a class="fancybox" rel="group" href="img/eng_pics/ss15.JPG">
-                    <div class="img-wrap">
-                        <div class="overlay">
-                            <i class="fa fa-search"></i>
-                        </div>
-                        <img src="img/eng_pics/ss15.JPG" alt=""/>
-                    </div>
-                </a>
-            </div>
-            <div class="col-md-2">
-                <a class="fancybox" rel="group" href="img/eng_pics/ss16.jpg">
-                    <div class="img-wrap">
-                        <div class="overlay">
-                            <i class="fa fa-search"></i>
-                        </div>
-                        <img src="img/eng_pics/ss16.jpg" alt=""/>
-                    </div>
-                </a>
-            </div>
-            <div class="col-md-2">
-                <a class="fancybox" rel="group" href="img/eng_pics/ss17.JPG">
-                    <div class="img-wrap">
-                        <div class="overlay">
-                            <i class="fa fa-search"></i>
-                        </div>
-                        <img src="img/eng_pics/ss17.JPG" alt=""/>
-                    </div>
-                </a>
-            </div>
-            
-            <div class="col-md-2">
-                <a class="fancybox" rel="group" href="img/eng_pics/ss18.JPG">
-                    <div class="img-wrap">
-                        <div class="overlay">
-                            <i class="fa fa-search"></i>
-                        </div>
-                        <img src="img/eng_pics/ss18.JPG" alt=""/>
-                    </div>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="container">
-        <div class="row hidden-lg hidden-md hidden-xs">
-            <div class="col-xs-12 section-border section-padding"></div>
-        </div>
-    </div>
-  
-</section>
-
-<br><br><br>
-
-
-
-<video controls autoPlay loop width="100%"height="610">
-    
-    <source src="img\sk.mp4"
-    type="video/mp4 " >
-
-</video>
-
-
-
-
-
-
-
-
-
-
-
-<section class="rsvp text-center" id="rsvp">
-
-    <div id="rsvp-modal" class="modal fade" tabindex="-1" role="dialog">
-        <div class="modal-dialog" role="document">
-            <div class="modal-content">
-                <div class="modal-body">
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span>&times;</span>
-                    </button>
-                    <div class="section-padding">
-                        <h3>Thank you!</h3>
-                        <p>We are glad to see you join us on our big day.</p>
-                        <div id="add-to-cal"></div>
-                    </div>
-                </div>
-            </div><!-- /.modal-content -->
-        </div><!-- /.modal-dialog -->
-    </div><!-- /.modal -->
-
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6 col-md-offset-3">
-                <h3> just for reminder...</h3>
-                <p>We would like to say the remaining time to married is shown below</p>
-                <form id="rsvp-form" class="rsvp-form"
-                      >
-
-
-                     
-
-
-
-
-                    <div class="row">
-                        <div class="col-md-12" id="alert-wrapper">
-
-
-
-                                <!--         reminder time         -->
-
-
-
-<div class="row">
-    <div class="col-md-12" id="alert-wrapper"></div>
-</div>
-
-
-
-
-<h2></h2>
-<time class="countdown" date-time="2023-12-21 12:06:00" style="--accent: green"></time>
-
-<script>
-    class Countdown {
-  constructor(el){
-    this.el = el;
-    this.targetDate = new Date(el.getAttribute("date-time"));
-    this.createCountDownParts()
-    this.countdownFunction();
-    this.countdownLoopId = setInterval(this.countdownFunction.bind(this), 1000)
-  }
-  createCountDownParts(){
-    ["days", "hours", "minutes", "seconds"].forEach(part => {
-      const partEl = document.createElement("div");
-      partEl.classList.add("part", part);
-      const textEl = document.createElement("div");
-      textEl.classList.add("text");
-      textEl.innerText = part;
-      const numberEl = document.createElement("div");
-      numberEl.classList.add("number");
-      numberEl.innerText = 0;
-      partEl.append(numberEl, textEl);
-      this.el.append(partEl);
-      this[part] = numberEl;
-    })
-  }
-
-  countdownFunction(){
-    const currentDate = new Date();    
-    if(currentDate > this.targetDate) return clearInterval(this.intervalId);
-    const remaining = this.getRemaining(this.targetDate, currentDate);
-    Object.entries(remaining).forEach(([part,value]) => {
-      this[part].style.setProperty("--value", value)
-      this[part].innerText = value
-    })  
-  }
-  
-  getRemaining(target, now){
-    let seconds = Math.floor((target - (now))/1000);
-    let minutes = Math.floor(seconds/60);
-    let hours = Math.floor(minutes/60);
-    let days = Math.floor(hours/24);
-    hours = hours-(days*24);
-    minutes = minutes-(days*24*60)-(hours*60);
-    seconds = seconds-(days*24*60*60)-(hours*60*60)-(minutes*60);
-    return { days, hours, minutes, seconds }      
-  }
-
+.launch-time{
+    display: flex;
+    margin-left: -4%;
 }
 
-const countdownEls= document.querySelectorAll(".countdown") || [];
-countdownEls.forEach(countdownEl => new Countdown(countdownEl))
-</script>
+.launch-time div{
+    flex-basis: 100px;
+}
+
+.launch-time div p{
+    font-size: 60px;
+    margin-bottom: -14px;
+}
+
+
+.launch-time2{
+    display: flex;
+    margin-left: 40%;
+    margin-right: 25%;
+    border: 1px solid;
  
+}
+
+.launch-time2 div{
+    flex-basis: 100px;
+    padding: 5px;
+}
+
+.launch-time2 div p{
+    font-size: 60px;
+    margin-bottom: -14px;
+    padding: 5px;
+}
+
+.launch-time3{
+    display: flex;
+    margin: -13%;
+}
+
+.launch-time3 div{
+    flex-basis: 100px;
+}
 
 
 
-<div class="text-center">
-    <h3>How do I get there?</h3>
-    <p>It's way easier than you think! </p>
-</div>
 
 
-<section id="map" class="section-padding">
+.wp28{
+    width: 100%;
+    padding: 2%;
+    opacity: 90;
+    border:solid 1px #119ac8
+
+}
+.hero{min-height:750px;background:url("../img/sak/DSC_7365.JPG") center center;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;position:relative;background-attachment: fixed;} 
+
+/* .hero{height: 100%;background:url("../img/sak/DSC_7365.JPG");background-repeat: no-repeat;background-position: center;background-size: 100%;background-attachment: fixed;}  */
+
+.hero .down-arrow a{color:#fff}.hero h1{color:#fff;margin-bottom:40px}.hero p.intro{color:#fff;font-size:20px;font-weight:300;margin-bottom:80px}.hero .hero-content{padding-top:1%}.hero .hero-content img{width:30%;margin-bottom:65%;margin-left: 35%;padding-top: 10%;}.navigation{transition:all 300ms ease-in-out;position:fixed;width:100%;z-index:999}.fixed{position:fixed;background-color:rgba(55,36,40,.88);z-index:999;width:100%}header{padding:3px 0;border-bottom:solid 1px rgba(255, 255, 255, 0.082);position:relative;width:1170px;margin:0 auto;transition:padding 300ms ease-in-out}header a{color:#fff;text-transform:uppercase;font-size:16px}header a.login{margin-right:20px}header .logo{display:inline-block}header .logo img{height:60px;width: 160px;}header ul.primary-nav{margin:0 10 10 7px;padding:0}header ul.primary-nav li{display:inline}header ul.primary-nav li a{color:#fff;padding-right:25px}header ul.primary-nav li a:hover{color:#e8ca6f}header ul.primary-nav li:last-child a{padding-right:0px}header ul.member-actions li{display:inline}header ul.member-actions li a{color:#fff}header ul.member-actions li a:hover{color:#e8ca6f}header .header-nav{display:inline-block}header .member-actions{position:absolute;right:0;top:41px;transition:all 300ms ease-in-out}.down-arrow{color:#fff;font-size:30px;position:absolute;bottom:30px;left:50%;transform:translateX(-50%)}.share-bar{margin-top:20px}.intro span.icon{font-size:50px;color:#e8ca6f;font-weight:bold}.intro-icon{display:inline-block;vertical-align:top;padding:6px 0 0 0;margin-right:20px;width:40px}.intro-content{display:inline-block;width:80%}#intro{padding-top:40px}#intro img{width:130%;height:auto}#intro p{text-align:center}.features{position:relative}.features p{margin-bottom:0;padding-bottom:0}.features h3{margin:0 0 20px 0}.features span.icon{font-size:35px;color:#e8ca6f;font-weight:bold}.features .feature-icon{display:inline-block;vertical-align:top;padding:6px 0 0 0;margin-right:20px;width:35px}.features .feature-content{display:inline-block;width:75%}.features .intro-icon{display:inline-block;vertical-align:top;padding:6px 0 0 0;margin-right:20px}.features .intro-content{display:inline-block;width:80%}.features ul.features-stack{margin-top:50px}.features ul.features-stack li{margin-top:20px;padding-bottom:20px;border-bottom:solid 1px #e6e9ea}.features ul.features-stack li:last-child{padding-bottom:0px;border-bottom:none}.features .ipad-wrap{width:706px;height:1002px;background:url("../img/ipad-device.png") no-repeat center center;z-index:1}.features .iphone-wrap{width:304px;height:620px;background:url("../img/iphone6.png") no-repeat center center;position:absolute;left:530px;bottom:129px;z-index:2}.features .device-showcase{position:absolute;bottom:-365px;right:61%}.features .responsive-feature-img,.features-extra .responsive-feature-img{display:none}.devices{position:relative}.features-extra{position:relative;z-index:3}.features-extra .btn{margin-top:20px}.features-extra .macbook-wrap{position:absolute;width:916px;height:540px;background:url("../img/macbook-pro.png") no-repeat center center;top:114px;z-index:4;left:50%}.hero-strip{margin-top:120px;background:#333844 url("../img/polygonal-bg.jpg") no-repeat center center;padding-bottom:190px;position:relative}.hero-strip i{font-family:"Nunito",sans-serif;font-weight:300;font-size:25px;color:#f69d52;vertical-align:top;margin-left:-8px;font-style:normal}.hero-strip h2{color:#fff;margin:0 0 20px 0}.hero-strip p{color:#acb1b4}.hero-strip .btn{margin-top:10px}.hero-strip .logo-placeholder{width:230px;height:230px;position:absolute;bottom:-285px;left:50%;transform:translateX(-50%)}.events .leftcol{padding-right:100px;border-right:solid 1px #e6e9ea}.events .rightcol{padding-left:100px}.events .time{font-size:px;font-style:italic;text-transform:lowercase;color:rgba(28,54,83,.6)}.blog{padding-bottom:120px}.blog img{width:100%;height:auto;-moz-transition:all 300ms ease-in-out;-o-transition:all 300ms ease-in-out;-webkit-transition:all 300ms ease-in-out;transition:all 300ms ease-in-out}.blog h2{font-size:11px;color:#acb1b4;font-weight:500;text-transform:uppercase;margin-top:35px}.blog .btn{margin-top:20px}.blog .blog-img-wrap{position:relative;overflow:hidden}.blog .blog-img-wrap .overlay{position:absolute;width:100%;height:100%;background-color:rgba(255,255,255,.5);-moz-transition:all 300ms ease-in-out;-o-transition:all 300ms ease-in-out;-webkit-transition:all 300ms ease-in-out;transition:all 300ms ease-in-out;-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";filter:alpha(opacity=0);opacity:0}.blog .blog-img-wrap i{color:#fff;font-size:20px;position:absolute;width:20px;height:20px;top:25px;right:35px}.blog .blog-img-wrap:hover img,.blog .blog-img-wrap:focus img{-moz-transform:scale(1.1);-ms-transform:scale(1.1);-o-transform:scale(1.1);-webkit-transform:scale(1.1);transform:scale(1.1)}.blog .blog-img-wrap:hover .overlay,.blog .blog-img-wrap:focus .overlay{-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";filter:alpha(opacity=1);opacity:1;z-index:9}.blog figcaption i{margin-left:5px;font-size:15px}.blog figcaption a.blog-post-title{color:rgba(28,54,83,.6)}.blog figcaption a.blog-post-title:hover,.blog figcaption a.blog-post-title:focus{color:#3d4351}#instagram img{width:100%}#eng-pics img{width:100%;height:auto;-moz-transition:all 300ms ease-in-out;-o-transition:all 300ms ease-in-out;-webkit-transition:all 300ms ease-in-out;transition:all 300ms ease-in-out}#eng-pics .img-wrap{position:relative;overflow:hidden;border-radius:4px}#eng-pics .img-wrap .overlay{position:absolute;width:100%;height:100%;background-color:rgba(255,255,255,.5);-moz-transition:all 300ms ease-in-out;-o-transition:all 300ms ease-in-out;-webkit-transition:all 300ms ease-in-out;transition:all 300ms ease-in-out;-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";filter:alpha(opacity=0);opacity:0}#eng-pics .img-wrap i{color:#fff;font-size:15px;position:absolute;width:15px;height:15px;top:6px;right:6px}#eng-pics .img-wrap:hover img,#eng-pics .img-wrap:focus img{-moz-transform:scale(1.1);-ms-transform:scale(1.1);-o-transform:scale(1.1);-webkit-transform:scale(1.1);transform:scale(1.1)}#eng-pics .img-wrap:hover .overlay,#eng-pics .img-wrap:focus .overlay{-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";filter:alpha(opacity=1);opacity:1;z-index:9}#eng-pics .diamond{width:230px;height:230px;position:absolute;bottom:-145px;left:50%;transform:translateX(-50%);z-index:500}#eng-pics .ring{width:75px;height:75px;border-radius:75px;border:10px solid #d0d3d4;position:absolute;left:34%;top:75%;z-index:-1}#video-bg{height:400px;}#video-content{width:100%;height:100%;padding-top:100px;border-bottom:2px solid #0d607b;border-top:2px solid #0d607b  ;position:relative;background:rgba(17,17,17,.5);text-align:center}#video-content h5{color:#fff;font-size:30px;font-weight:300;letter-spacing:10px}#video-content p{color:#fff}#map{height:500px;width:100%  ;border:3px solid #dc96ed}#map-content-wrapper{position:relative;margin-top:-502px;margin-bottom:y:150px}#map-content{margin-top:40px;padding:50px 60px;background:#fff;-webkit-transition:opacity .5s,visibility .6s,margin-top .5s;transition:opacity .5s,visibility .6s,margin-top .5s}#btn-show-content{padding:20px;background:#fff;cursor:pointer;display:inline-block;-webkit-transition:opacity .5s,visibility .6s,margin-top .5s;transition:opacity .5s,visibility .6s,margin-top .5s}.toggle-map-content{opacity:0;visibility:hidden}.pointer-events-none{pointer-events:none}.pointer-events-auto{pointer-events:auto}border:none}.rsvp .rsvp-form .form-input-group input::-webkit-input-placeholder{color:#bcc1c3}.rsvp .rsvp-form .form-input-group input:-moz-placeholder{color:#bcc1c3}.rsvp .rsvp-form .form-input-group input::-moz-placeholder{color:#bcc1c3}.rsvp .rsvp-form .form-input-group input:-ms-input-placeholder{color:#bcc1c3}footer .content{border-top:1px solid #e6e9ea;padding-bottom:20px}footer .to-top-wrapper{font-size:30px;display:block;cursor:pointer;margin:-25px auto 50px;border-radius:50%;width:50px;height:50px;border:1px solid #e6e9ea;background:#fff}footer .to-top-wrapper .to-top{display:block;-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-ms-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out}footer .to-top-wrapper .to-top:hover{margin-top:-5px}footer span.fa-heart{color:#0fa73f;font-size:18px;margin:0 2px}body.modal-open{padding-right:0 !important}.modal-body{padding:25px}
+
+
+
+/* timer */
+
+@layer demo, countdown;
+
+@layer countdown{
+  .countdown {
+    width: fit-content;
+    display: inline-grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 1fr;
+    gap: 1rem;
+  }
+  .countdown > .part {
+    font-size:20px;
+    display: grid;
+    gap: 1rem;
+  }
+  .countdown > .part > .number {
+    aspect-ratio: 1;
+    display: grid;
+    place-items: center;
     
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3801.250182898891!2d75.28406627463342!3d17.6856376941458!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc417cfd8550587%3A0x2c514d6b38d9d41d!2sSadguru%20mangal%20karyalay!5e0!3m2!1sen!2sin!4v1701277852446!5m2!1sen!2sin" width="100%" height="490" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> 
+    border-radius: 10%;
+    border: 2px solid hsl(0 0% 50% / .5);
+    font-size: 5rem;
     
-    
-</section>
-<br><br>
+    position: relative
+  }
+  .countdown > .part.days { --num: 365 }
+  .countdown > .part.hours { --num: 24 }
+  .countdown > .part:where(.minutes, .seconds) { --num: 60 }
+  .countdown > .part > .number::after{
+    content: "";
+    position: absolute;
+    inset: calc(var(--border-size) * -1);
+    border-radius: inherit;
 
-<footer>
+    --degree: calc(360deg / var(--num) * (var(--num) - var(--value,0)));
+    background-image: conic-gradient(var(--accent) var(--degree), transparent calc(var(--degree) + 0.1deg));
 
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-12 text-center content">
-                <span class="to-top-wrapper">
-                    <a href="#top" class="to-top"><i class="fa fa-angle-up"></i></a></span>
+    --border-size: 4px;  
+    --mask-image: radial-gradient(100% 100%, transparent calc(50% - var(--border-size)), black calc(50% - var(--border-size) + 1px));
+    -webkit-mask-image: var(--mask-image);
+    mask-image: var(--mask-image);
+  }
+  .countdown > .part > .text {
+    font-size: 20px;
+    text-align: center;
+    opacity: 0.75
+  }
+}
+@layer demo {
+  * { box-sizing: border-box }
+  body {
    
-<a href="#" class="btn btn-fill btn-large btn-margin-right">Scroll Up</a>
-<br> 
-
-
-<video controls muted loop width="370"height="810">
-    
-    <source src="img/video.mp4"
-    type="video/mp4 " >
-
-</video>
-<br>  
-<br><br>
-
-
-
-
-                <p>Crafted by Sumit with lots of <span class="fa fa-heart pulse2"></span> for Sakshi</p>
-            </div>
-        </div>
-    </div>
-</footer>
-<script src="js/vendor/jquery-1.11.2.min.js" onerror="loadJsFromCDN('jquery.js')"></script>
-<script src="node_modules/waypoints/lib/jquery.waypoints.min.js" onerror="loadJsFromCDN('waypoints.js')"></script>
-<script src="js/jquery.fancybox.pack.js"></script>
-<script src="js/vendor/bootstrap.min.js"></script>
-<script src="js/jquery.flexslider-min.js"></script>
-<script src="js/jquery.mb.YTPlayer.min.js"></script>
-<script src="js/vendor/ouical.js"></script>
-<script src="js/scripts.min.js"></script>
-<script async defer
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBlPw3GQYI3faa_9mRE6plWuM7xNEmrwH0&callback=initMap"></script>
-<!-- Google Analytics -->
-<script>
-    (function (i, s, o, g, r, a, m) {
-        i['GoogleAnalyticsObject'] = r;
-        i[r] = i[r] || function () {
-            (i[r].q = i[r].q || []).push(arguments)
-        }, i[r].l = 1 * new Date();
-        a = s.createElement(o),
-            m = s.getElementsByTagName(o)[0];
-        a.async = 1;
-        a.src = g;
-        m.parentNode.insertBefore(a, m)
-    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-    ga('create', 'UA-46465113-4', 'auto');
-    ga('send', 'pageview');
-</script>
-</body>
-</html>
+    background-color: #060D1F;
+    color: #FEFEFE;
+    font-family: system-ui, sans-serif;
+    text-align: center;
+  }
+  h2 {
+    margin-top: 4rem;
+  }
+}
