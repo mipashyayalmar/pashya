@@ -18,3 +18,24 @@ Greetings! I'm Prasad, a computer science engineering enthusiast studying at [Ka
 Feel free to explore the repository for more details and customization options. Your feedback and contributions are always appreciated.
 
 thank you for visiting ...
+
+
+
+
+
+
+##  Directly Professional Journey Link to check it:
+
+
+
+
+
+## My Other Projects On Github:-
+- [Web Design](#)
+- [Fashion](#)
+- [E-Commerce](#)
+- [Alexa](#)
+- [Data Analysis](#)
+- [E-Notes System](#)
+- [Feedback collecting](#)
+- [my portfolio⮕](https://mipashyayalmar.github.io/-Profile-data/)
