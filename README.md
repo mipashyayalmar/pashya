@@ -23,7 +23,7 @@ thank you for visiting ...
 
 
 
-![Screenshot 2024-02-18 144836](https://github.com/mipashyayalmar/pashya/assets/152699596/2d3f37dc-febf-4ead-986d-fb73411eb3cd)
+
 
 ##  Directly Professional Journey Link to check it:
 
@@ -43,5 +43,7 @@ thank you for visiting ...
 
 
 
-
+<div style="width:60px ; height:60px">
+![Screenshot 2024-02-18 144836](https://github.com/mipashyayalmar/pashya/assets/152699596/2d3f37dc-febf-4ead-986d-fb73411eb3cd)
+<div>
 
