@@ -42,8 +42,9 @@ thank you for visiting ...
 - [my portfolio⮕](https://mipashyayalmar.github.io/-Profile-data/)
 
 
+<div style="width: 60px; height: 60px;">
+    <img src="https://github.com/mipashyayalmar/pashya/assets/152699596/2d3f37dc-febf-4ead-986d-fb73411eb3cd" alt="Web Menu Screenshot">
+</div>
 
-<div style="width:60px ; height:60px">
-![Screenshot 2024-02-18 144836](https://github.com/mipashyayalmar/pashya/assets/152699596/2d3f37dc-febf-4ead-986d-fb73411eb3cd)
-<div>
+
 
