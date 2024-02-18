@@ -1,4 +1,4 @@
-![Employee data](/repository/assets/employee.png?raw=true "Employee Data title")
+<img src="/repository/assets/employee.png" alt="Employee data" title="Employee Data title">
 # Wedding Website
 
 This wedding website offers a captivating and fully-responsive design, ensuring an optimal viewing experience across various devices. Experience its features firsthand by visiting the [demo site](https://mipashyayalmar.github.io/pashya/?fbclid=PAAabqDdA4xzZkJx6CxlgUSRzOan-0iX3VIb8_yU4EsKhoJn0QRQwOEeAdKWg).
